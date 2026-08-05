@@ -129,13 +129,13 @@ top_country	=	top_countries.index[0]
 top_genre	=	top_genres.index[0]
 peak_year	=	int(titles_per_year.idxmax())
 
-print("\n"	+	"="	*	60)
-print("SUMMARY	OF	FINDINGS")
-print("="	*	60)
-print(f"-	Movies	make	up	{movie_pct:.1f}%	of	the	catalog;	the	rest	are	TV	Shows.")
-print(f"-	{top_country}	produces	the	most	titles	on	Netflix	in	this	dataset.")
-print(f"-	'{top_genre}'	is	the	single	most	common	genre.")
-print(f"-	Netflix's	catalog	additions	peaked	in	{peak_year}.")
-print("-	See	the	saved	chart1-5	PNG	files	for	the	full	visual	breakdown.")
-print("="	*	60)
+print("\n" + "=" * 60)
+print("SUMMARY OF FINDINGS")
+print("=" * 60)
+print(f"- Movies make up {movie_pct:.1f}% of the catalog; the rest are TV Shows.")
+print(f"- {top_country} produces the most titles on Netflix in this dataset.")
+print(f"- '{top_genre}' is the single most common genre.")
+print(f"- Netflix's catalog additions peaked in {peak_year}.")
+print("- See the saved chart1-5 PNG files for the full visual breakdown.")
+print("=" * 60)
 
