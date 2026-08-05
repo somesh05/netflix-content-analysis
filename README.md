@@ -32,13 +32,12 @@ Python, Pandas, Matplotlib, Seaborn, kagglehub
 
 ## Key Insights
 
-- Movies make up the large majority of the catalog, with TV Shows a smaller but significant share.
-- The United States is the leading content-producing country in the dataset, followed by India and the United Kingdom.
-- "International Movies," "Dramas," and "Comedies" are consistently among the most common genres.
-- Netflix's catalog additions grew sharply between 2016 and 2019, then leveled off in more recent years.
-- TV-MA and TV-14 are the most common content ratings, and skew noticeably differently between Movies and TV Shows.
+-	Movies	make	up	69.6%	of	the	catalog;	the	rest	are	TV	Shows.
+-	United States	produces	the	most	titles	on	Netflix	in	this	dataset.
+-	'International Movies'	is	the	single	most	common	genre.
+-	Netflix's	catalog	additions	peaked	in	2019.
+-	See	the	saved	chart1-5	PNG	files	for	the	full	visual	breakdow
 
-*(Update these bullet points with your own exact numbers after running the script — see the printed "SUMMARY OF FINDINGS" section in your terminal output.)*
 
 ## Sample Output
 
